@@ -1,0 +1,10 @@
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\bin\Debug\StopWatch1.exe.config
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\bin\Debug\StopWatch1.exe
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\bin\Debug\StopWatch1.pdb
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.AssemblyReference.cache
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.Form1.resources
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.Properties.Resources.resources
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.GenerateResource.cache
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.csproj.CoreCompileInputs.cache
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.exe
+C:\Users\Deepak Kumar\source\repos\StopWatch1\StopWatch1\obj\Debug\StopWatch1.pdb
